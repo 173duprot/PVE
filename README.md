@@ -1,6 +1,6 @@
-## PVE
+## TPVE
 
-#### Portable Voxel Engine.
+#### Tiny Portable Voxel Engine.
 
 A tiny multiplayer micro-engine written in under 6000 lines of C. 
 
