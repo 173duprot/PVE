@@ -1,8 +1,8 @@
-## TinyV
+## PVE
 
-Tiny Portable Voxel Engine. Just a few thousand lines of C using OpenGL. Online multiplayer support is included using a Python-based server.
+Portable Voxel Engine.
 
-http://www.michaelfogleman.com/craft/
+A tiny multiplayer micro-engine written in under 6000 lines of C. 
 
 ![Screenshot](https://i.imgur.com/SH7wcas.png)
 
